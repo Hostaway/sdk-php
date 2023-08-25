@@ -5,6 +5,7 @@ phpunit.xml
 tests/log
 build
 phplog
+.idea
 
 # Ignore eclipse project files
 .buildpath
